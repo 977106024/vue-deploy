@@ -12,4 +12,4 @@
 * 创建仓库的流水线
 * 设置流水线的构建与部署 见阿里云文档 [流水线配置文档](https://thoughts.teambition.com/sharespace/5d8325488acc9d00143ac6ef/docs/5dcf86438a05fe001424c1ea?spm=a2cl9.flow_devops2020_goldlog_detail.0.0.37145bf2jlH3Jw)
 
-
+testgit
